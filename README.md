@@ -14,8 +14,12 @@ To install this project, you need to have Git installed on your computer. You ca
 Then, you need to clone this repo to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/static-portfolio-website.git
+git clone https://github.com/webwithaman/portfolio-using-only-html.git
 ```
+
+## Demo
+
+You can see a live demo of this static blog [https://amansimpleportfolio.netlify.app].
 
 
 ## License
