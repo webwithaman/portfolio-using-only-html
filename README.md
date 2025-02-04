@@ -4,4 +4,4 @@ This is a static portfolio website built using only HTML. The website consists o
 
 ## Live Demo
 
-You can see a live demo of this static blog [https://amansimpleportfolio.netlify.app]
+You can see a live demo of this static blog [https://webwithman-portfolio-using-only-html.netlify.app]
